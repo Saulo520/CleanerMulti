@@ -158,5 +158,4 @@ logs/
 ---
 
 ## 📝 Licença
-
-Uso livre. Ajuste conforme sua necessidade.
+https://github.com/Saulo520/CleanerMulti/blob/main/LICENSE
