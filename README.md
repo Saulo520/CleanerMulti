@@ -59,12 +59,7 @@ Visualize as alterações sem executá-las.
 ## 📁 Estrutura de Arquivos Monitora
 
 O script considera por padrão:
-
-
 src/
-
-
-Você pode alterar isso via configuração.
 
 ---
 
