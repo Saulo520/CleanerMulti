@@ -1,0 +1,22 @@
+# Cache e logs do script
+.cleaner_cache.json
+logs/
+backup_snapshots/
+
+# Dependências e builds comuns
+node_modules/
+dist/
+build/
+coverage/
+.next/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de IDE
+.vscode/
+.idea/
